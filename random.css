@@ -1,0 +1,14 @@
+#wrapper {
+	width: 70%;
+	margin: auto;
+	background-color: tomato;
+	height: 800px;
+}
+
+h1 {
+	margin-left: 30px;
+}
+
+h2 {
+	margin-left: 55px;
+}
